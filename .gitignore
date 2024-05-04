@@ -9,6 +9,10 @@
 # testing
 /coverage
 
+# android file
+/android
+
+
 # next.js
 /.next/
 /out/
